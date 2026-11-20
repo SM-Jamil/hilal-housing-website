@@ -1,51 +1,46 @@
-# hilal-housing-website
-A React.js-based real estate website developed for a US-based agency, featuring a modern interface, responsive layouts, and professionally structured property-related content.
-Hilal Housing – Real Estate Website
+# Getting Started with Create React App
 
-A modern real estate website built with React.js for a US-based agency, focusing on delivering a professional digital experience for the real estate industry.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-📌 #Project Overview
+## Available Scripts
 
-Hilal Housing is a React.js-based real estate website developed to establish a professional online presence for a real estate agency.
+In the project directory, you can run:
 
-The project focuses on modern frontend development, clean UI presentation, organized layouts, and a user-friendly browsing experience.
+### `npm start`
 
-✨ #Project Highlights
-React.js-based frontend development.
-Modern real estate website interface.
-Clean and professional UI design.
-Structured website layouts.
-Reusable React components.
-Responsive design approach.
-Organized content presentation.
-User-friendly navigation experience.
-🛠️ Technologies Used
-React.js
-JavaScript
-HTML5
-CSS3
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Additional libraries and technologies can be added based on the actual project code.
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-🎨 #Design & Development
+### `npm test`
 
-The website was developed with attention to:
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Modern real estate website aesthetics.
-Consistent styling and typography.
-Structured frontend architecture.
-Component-based React development.
-Clean and maintainable code.
-🎯 Project Objective
+### `npm run build`
 
-The goal was to develop a professional real estate website for a US-based agency, providing a modern online presence and a user-friendly interface for visitors.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-🔒 #Project Availability
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-The original website is not currently available through a live public URL. However, the project source code is available in this repository for code review and demonstration purposes.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-👨‍💻 Developer
+### `npm run eject`
 
-Developed by Your Name
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-React.js Developer | Frontend Developer | Website Designer
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
